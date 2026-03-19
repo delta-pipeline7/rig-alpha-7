@@ -1,0 +1,6 @@
+access: restricted
+
+alpha_rig: inactive
+
+note:
+not all logs are stored here
