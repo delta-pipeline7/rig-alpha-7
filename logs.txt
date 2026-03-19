@@ -64,7 +64,7 @@ drill_depth: 1200m
 pressure_level: normal
 
 mirror_node: pastebin
-_ref: /auMRwRwp
+_ref: /8FtyL47v
 
 cache_refresh: done
 mirror_check: success
