@@ -14,7 +14,7 @@ error_log:
 warning: minor delay detected
 
 backup_status: completed
-archive_sync: pending
+archive_sync: pastebin
 
 node_cluster: 7 active
 packet_loss: 0.02%
@@ -63,7 +63,7 @@ packet_loss: 0.02%
 drill_depth: 1200m
 pressure_level: normal
 
-mirror_node: pastebin
+mirror_node: 
 _ref: /8FtyL47v
 
 cache_refresh: done
